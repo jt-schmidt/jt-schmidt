@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on educating others on learning how to visualize data.
 - 🤔 I’m looking for help with learning new skills.
 - 💬 Ask me about Data Visualization.
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/jns04/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on educating others on learning how to visualize data.
 - 🤔 I’m looking for help with learning new skills.
 - 💬 Ask me about Data Visualization.
+- 📫 How to reach me: https://www.linkedin.com/in/jns04/
